@@ -5,7 +5,6 @@ using namespace std;
 class testClass{
     public:
         int thisis_var_a;
-
         //////// CONSTRACTOR
         testClass(){
             thisis_var_a = 10;
